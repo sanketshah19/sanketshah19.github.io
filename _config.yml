@@ -1,0 +1,4 @@
+# GitHub Pages runs Jekyll unless bypassed. Keep Next.js folders visible.
+include:
+  - _next
+  - _not-found
